@@ -1,0 +1,6 @@
+The purpose is to be able to break the password checking process and generate
+at least 10 valid login-password pairs for the algorithm.
+
+log.pass contains a valid login-password pair to test the algorithm with.
+
+Enjoy!
